@@ -1,4 +1,4 @@
-# django_project
+# Django_project
 Project to learn and practice Django
 
 The purpose of this project is learn Django using the instructions provided by 
